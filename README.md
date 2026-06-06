@@ -34,6 +34,14 @@ Project report repository for **DLMIWMB02_E – Mobile Software Engineering II**
 
 ## Run Locally
 
+## Google Maps API Key
+
+To use the map feature, you must add your Google Maps API key to `local.properties`:
+
+```
+MAPS_API_KEY=YOUR_KEY_HERE
+```
+
 1. Open the project folder in Android Studio.
 2. Let Gradle sync finish.
 3. Run the `app` configuration on an emulator or a physical device.
