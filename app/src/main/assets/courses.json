@@ -1,0 +1,878 @@
+{
+    "program": {
+        "name": "Master Business and IT",
+        "degree": "Master of Science",
+        "total_credits": 120,
+        "study_format": "Distance Learning"
+    },
+    "semesters": [
+        {
+            "semester": 1,
+            "modules": [
+                {
+                    "module_code": "MWCH1_E",
+                    "module_name": "Global Supply Chain Management",
+                    "credits": 5,
+                    "coordinator": "Fadi Mohsen",
+                    "learning_outcomes": [
+                        "specify the goals and tasks of supply chain management and how it differs from pure logistics management.",
+                        "specify the tools and instruments for designing SCM.",
+                        "list possible measures to avoid obstacles in the implementation and operation of supply chains.",
+                        "assess the potential impact of coordinating collaborations on supply chain management.",
+                        "name the basic supply, disposal and recycling strategies and indicate their contents.",
+                        "indicate the motives for quality management in SCM and the methods and instruments used.",
+                        "assess which business software can support and control the functions of the supply chain."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "MWCH01_E",
+                            "course_name": "Global Supply Chain Management",
+                            "description": "A problem-centered understanding of global value networks requires knowledge of their motives and goals. Furthermore, in view of the apparent diversity, it seems particularly useful to systematize these networks in certain typologies. On the basis of such systematizations it is then possible to systematize the spectrum of strategically relevant questions and design options in the field of SCM in a differentiated form. In addition, this also makes it possible to present the instrumental categories of SCM that are particularly relevant in this context.",
+                            "outcomes": [
+                                "specify the goals and tasks of supply chain management and how it differs from pure logistics management.",
+                                "specify the tools and instruments for designing SCM.",
+                                "list possible measures to avoid obstacles in the implementation and operation of supply chains.",
+                                "assess the potential impact of coordinating collaborations on supply chain management.",
+                                "name the basic supply, disposal and recycling strategies and indicate their contents.",
+                                "indicate the motives for quality management in SCM and the methods and instruments used.",
+                                "assess which business software can support and control the functions of the supply chain."
+                            ],
+                            "contents": [
+                                "Motives and Effects of Logistics Value Networks",
+                                "Typologies of SCM and design models",
+                                "Problem-oriented concepts and corresponding management concepts",
+                                "Tasks and goals of the SCM",
+                                "Cooperation and coordination",
+                                "Supply, disposal and recycling strategies",
+                                "Quality assurance",
+                                "Information retrieval"
+                            ],
+                            "literature": [
+                                "Arndt, H. (2010): Supply Chain Management. Optimization of logistic processes. 5th edition, Gabler, Wiesbaden.",
+                                "Chopra, S./Meindl, P. (2007): Supply Chain Management. Strategy, Planning and Operation. 3rd edition, Pearson, New Jersey.",
+                                "Cohen, S./Roussel, J. (2006): Strategic Supply Chain Management. Springer, Berlin/ Heidelberg.",
+                                "Corsten, H./Gössinger, R. (2008): Introduction to Supply Chain Management. 2nd edition, Oldenbourg, Munich.",
+                                "Handfield, R. B./Nichols, E. L. (2008): Introduction to Supply Chain Management. Prentice Hall, Upper Saddle River, NJ.",
+                                "Petry, T. (2006): Network strategy. Core of an integrated management of corporate networks. Gabler, Wiesbaden.",
+                                "Pfohl, H. C. (2009): Logistics systems. Fundamentals of Business Administration. 8th Edition, Springer, Berlin.",
+                                "Schulte, C. (2009): Logistics. Ways to optimize the supply chain. 5th edition, Vahlen, Munich.",
+                                "Simchi-Levi, D./Kaminsky, P./Simchi-Levi, E. (2008): Designing and Managing the Supply Chain. Concepts, Strategies and Case Studies. 3rd edition, McGraw-Hill, Boston.",
+                                "Werner, H. (2010): Supply Chain Management. Basics, strategies, instruments. Springer, Berlin."
+                            ],
+                            "exam_type": "Exam, 90 Minutes",
+                            "study_formats": [
+                                "Distance Learning",
+                                "myStudies"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMIMIUW_E",
+                    "module_name": "Information and Knowledge Management",
+                    "credits": 5,
+                    "coordinator": "Prof. Dr. Andrew Adjah Sai",
+                    "learning_outcomes": [
+                        "identify information flows in the company and derive recommendations for adequate information management systems.",
+                        "identify information management problems in the workplace and develop alternative approaches.",
+                        "distinguish between data and information management and name typical software on a case-by-case basis.",
+                        "explain the use and methods of knowledge-based systems and assess limitations of use.",
+                        "explain psychosocial conditions of knowledge distribution and to be able to derive recommendations from them."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMIMIUW01_E",
+                            "course_name": "Information and Knowledge Management",
+                            "description": "The use of digital information in companies is closely related to the knowledge of employees. This course provides students with the knowledge to localize information needs in the company, to identify transfer channels and to gain insights for the information technology to be used as well as for the preservation and application of knowledge in the company. Here, the connection between the strategic use of information technology and its effects on concrete workplace conditions is elaborated. After an overview of common methods of data management, case studies of information retrieval are explained, and suitable software solutions are considered. Based on this, systems and methods are presented that can be used to capture and store employee knowledge in order to serve as a basis for decision support. The necessary consideration of the psychosocial aspects of knowledge distribution form the conclusion of this course.",
+                            "outcomes": [
+                                "identify information flows in the company and derive recommendations for adequate information management systems.",
+                                "identify information management problems in the workplace and develop alternative approaches.",
+                                "distinguish between data and information management and name typical software on a case-by-case basis.",
+                                "explain the use and methods of knowledge-based systems and assess limitations of use.",
+                                "explain psychosocial conditions of knowledge distribution and to be able to derive recommendations from them."
+                            ],
+                            "contents": [
+                                "Introduction (Defining the Subject Area, Data, Metadata, Information, Knowledge)",
+                                "Strategic Information Management (Identifying Information Flows, Selection of Information Management Systems, Prerequisites of the Implementation)",
+                                "Information Management in the Workplace (The Change of Existing Workflows Through IT, Acceptance and Work-Appropriate Use of IT-Systems, E-Mail Systems and Their Alternatives)",
+                                "Data Management Scenarios (Document Management, Administration and Accounting, Materials Management, Order Processing, Supply Chains)",
+                                "Information Management Scenarios (Planning, Control, Relationship Management, Information Distribution (Content Management), Organization, Cooperation & Communication, Decision Support)",
+                                "Knowledge-Based Systems (Knowledge Representation in Software (Ontologies), Case-Based Storage of Knowledge, Rule-Based Storage of Knowledge, Inference Machines, Expert Support Systems)",
+                                "Knowledge Management (Psychological Aspects of Knowledge Distribution, Knowledge Sharing, Knowledge and Learning)"
+                            ],
+                            "literature": [
+                                "Byström, K., Heinström, J. & Ruthven, I. (2019). Information at Work: Information Management in the Workplace. Facet Publishing.",
+                                "North, K., & Kumta, G. (2018). Knowledge management: Value creation through organizational learning (2nd edition). Springer.",
+                                "Usman, S. H., Zaveri, J., & Hamza, A. (2021). An Integrated View of Knowledge Management Enablers, Components, and Benefits: Comprehensive Literature Review. Journal of International Technology & Information Management, 30(4), 1–23."
+                            ],
+                            "exam_type": "Exam, 90 Minutes",
+                            "study_formats": [
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMPRERM",
+                    "module_name": "Requirements Management",
+                    "credits": 5,
+                    "coordinator": "Michael Malik",
+                    "learning_outcomes": [
+                        "understand the drivers and the importance of requirements management.",
+                        "name the essential tasks and functions of requirements management as well as describe their meaning.",
+                        "explain the different methods of requirements management.",
+                        "define quality criteria for good requirements management and identify requirements smells.",
+                        "explain the process of requirements management and derive industry-specific needs."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMPRERM01",
+                            "course_name": "Requirements Management",
+                            "description": "Globalization and digitization are the mega-trends of our time. In addition to increasingly global networking, real-time communication and growing product complexity, customer requirements and needs are changing rapidly as well. The flexible, fast and target specific reaction, recording, controlling, monitoring and administration of these changing customer needs must be met by requirements management. This course will explain the internal and external drivers of requirements management as well as address the other mega-trends. The aim is to identify and understand the specific tasks, methods and quality criteria of requirements management. Furthermore, the need for industry-specific adaptation within the basic requirements management process flow is of major importance. Finally, this course will offer critical reflection, taking into consideration the limiting framework conditions when applying requirements management.",
+                            "outcomes": [
+                                "understand the drivers and the importance of requirements management.",
+                                "name the essential tasks and functions of requirements management as well as describe their meaning.",
+                                "explain the different methods of requirements management.",
+                                "define quality criteria for good requirements management and identify requirements smells.",
+                                "explain the process of requirements management and derive industry-specific needs."
+                            ],
+                            "contents": [
+                                "Basics and Drivers of Requirements Management (Introduction, Definition of Requirements and Management, Requirements Management as an Answer to the VUCA World, External and Internal Drivers for Requirements Management, Project Management and Requirements Management)",
+                                "Classification and Terms of Requirements Management (Requirements Management in Relation to Requirements Engineering, Requirements Management in Relation to Business Analytics, From Customer Needs to the Specification of Requirements, The Specification Sheet and its Significance, The Importance of Functional Specifications and Technical Concept)",
+                                "Requirements Management Tasks (Management and Control of Requirements, Administration of Requirements, Risk Management, Implementation Management, Modification Management)",
+                                "Methods and Quality of Requirements Management (Scoping, Requirements Analysis and Requirements Specification, Requirements Modeling and Review, Quality Criteria of Requirements Management, Identification of Requirements Smells)",
+                                "Process and Industry-Specific Needs of Requirements Management (Basic Process of Requirements Management, Specifications for Projects in Mechanical and Plant Engineering, Specification for Projects in Civil Engineering, Specifications for Projects in the Social Sector, Specifications for Projects in the Software Sector)",
+                                "Critical Reflection (Costs/Benefits of Requirements Management, Requirements Management and Agility—A Contradiction?, Limits of Requirements Management)"
+                            ],
+                            "literature": [
+                                "Akbar, M. A. / Mahmood, S. / Alsanad, A. / Shafiq, M. / Gumaei, A. (2020): Organization Type and Size Based Identification of Requirements Change Management. Challenges in Global Software Development. IEEE Access, 8, p. 94089–94111.",
+                                "Ameri, F. / Stecke, K. E. / Cieminski, G. / Kiritsis, D. (2019): Advances in Production Management Systems. Production Management for the Factory of the Future. Bd. 566, Springer International Publishing.",
+                                "Papinniemi, J. / Hannola, L. / Maletz, M. (2014): Challenges in integrating requirements management with PLM. International Journal of Production Research, 52(15), p. 4412–4423.",
+                                "Wörösch, M. (2014): End-to-end requirements management for multi-projects in the construction industry. 1. Auflage., Report / DCAMM: No. S 162. DTU Mechanical Engineering, DCAMM.",
+                                "Zhang, J., Xue / D. & Gu, P. (2014): Robust adaptable design considering changes of requirements and parameters during product operation stage. The International Journal of Advanced Manufacturing Technology, 72(1-4), p. 387–401."
+                            ],
+                            "exam_type": "Exam or Oral Assignment, 90 Minutes",
+                            "study_formats": [
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMARM-01",
+                    "module_name": "Advanced Research Methods",
+                    "credits": 5,
+                    "coordinator": "Prof. Dr. Markus C. Hemmer",
+                    "learning_outcomes": [
+                        "demonstrate an understanding of principles of scientific inquiry and logical reasoning.",
+                        "apply formal techniques to modeling and theory generation.",
+                        "apply interpretative techniques to intercultural case studies.",
+                        "propose, plan, and conduct research projects under ethical constraints.",
+                        "evaluate study results to arrive at valuable and ethical conclusions.",
+                        "report study results responsibly in an objective and comprehensible form."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMARM01-01",
+                            "course_name": "Advanced Research Methods",
+                            "description": "Advanced research methods, specifically business research, is scientific inquiry that attempts to uncover new information which helps a business improve performance, maximizing shareholder value while adhering to ethical and moral compliance standards. Managers seeking to conduct empirical research must maintain validity, reliability, and trustworthiness when utilizing scientific methodologies in order to produce meaningful and actionable results. Research proposals are typically written prior to conducting research, which have a certain structure, enabling the researcher to properly plan, conduct, and analyze case studies and surveys. Different data collection strategies are used to collect both qualitative and quantitative data, depending on the research proposal goals. Managers utilize their understanding of research methodologies to accurately assess the quality of research.",
+                            "outcomes": [
+                                "demonstrate an understanding of principles of scientific inquiry and logical reasoning.",
+                                "apply formal techniques to modeling and theory generation.",
+                                "apply interpretative techniques to intercultural case studies.",
+                                "propose, plan, and conduct research projects under ethical constraints.",
+                                "evaluate study results to arrive at valuable and ethical conclusions.",
+                                "report study results responsibly in an objective and comprehensible form."
+                            ],
+                            "contents": [
+                                "Principles of Research (Scientific Inquiry, Principles of Reasoning, From Data to Knowledge, Models & Theories, The Research Cycle)",
+                                "Research Approaches (Experimental Design, Engineering & Development, Empirical Research & Case Studies, Interpretative Studies)",
+                                "The Research Project (Topic Generation, Types of Literature Reviews, Developing a Research Design, The Research Proposal)",
+                                "Selected Formal Techniques (Foundations of Probability Theory & Inferential Statistics, Data Acquisition, Pattern Recognition & Classification, Modelling & Theory Generation, Artificial Intelligence in Research)",
+                                "Selected Interpretative Topics (Phenomenology, Hermeneutics & Discourse Analysis, Ethnography & Ethnomethodology, Critical Management Theory)",
+                                "Scientific Reporting (Results Presentation & Visualization, Interpretation, Argumentation & Discussion, Conclusions, Ethical Considerations)"
+                            ],
+                            "literature": [
+                                "Babbie, E. R. (2021). The practice of social research (15th ed.). Cengage Learning.",
+                                "Babbie, E. R. (2016). The practice of social research (14th ed.). Cengage Learning.",
+                                "Crossman, A. (2019). How to conduct an index for research. https://www.thoughtco.com/index-for-research-3026543",
+                                "Eurostat. (n.d.). Beginners: Statistical concept - Index and base year. https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Beginners:Statistical_concept_-_Index_and_base_year",
+                                "Giles, D. (2004). Advanced research methods in psychology (Reprint). Psychology Press.",
+                                "Rea, L.M., & Parker, R.A. (2014). Designing and conducting survey research: A comprehensive guide, (4th ed). Jossey-Bass.",
+                                "Saunders, M., Thornhill, A., & Lewis, P. (2019). Research methods for business students (8th ed). Pearson.",
+                                "Takahashi, A. R. W., & Araujo, L. (2019). Case study research: Opening up research opportunities. RAUSP Management Journal, 55(1), 100–111.",
+                                "Widner, J., Woolcock, M., & Ortega Nieto, D. (Eds.). (2022). The case for case studies: Methods and applications in international development (strategies for social inquiry). Cambridge University Press."
+                            ],
+                            "exam_type": "Written Assessment: Written Assignment",
+                            "study_formats": [
+                                "myStudies",
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMBIE-01",
+                    "module_name": "Innovation and Entrepreneurship",
+                    "credits": 5,
+                    "coordinator": "Prof. Dr. Lena Bernhofer",
+                    "learning_outcomes": [
+                        "understand the importance, fundamentals, and dimensions of entrepreneurship and its derivatives (intrapreneurship, corporate entrepreneurship, stakeholder relationships, and family businesses).",
+                        "analyze the opportunities and challenges associated with evaluating a business idea and setting up a business.",
+                        "distinguish between the different motivations behind entrepreneurial activity and develop specific objectives for new enterprises.",
+                        "develop a business model, including benchmarks for assessing desired sustainable growth.",
+                        "apply different legal forms to business start-ups and select the appropriate legal form for a specific business model.",
+                        "understand the different ways in which entrepreneurship and innovation can be financed and weigh them against each other in terms of medium- and long-term advantages and disadvantages.",
+                        "develop a rigorous business plan that can be used both as a planning and financing instrument.",
+                        "apply, in principle, an entrepreneurial mindset in a variety of different contexts of future professional development."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMBIE01-01",
+                            "course_name": "Innovation and Entrepreneurship",
+                            "description": "In today's globalized and digital world, entrepreneurs have more opportunities to develop and market products and services than ever before. However, entrepreneurship, whether in the form of entrepreneurship or intrapreneurship, presents special challenges. In order to avoid the typical pitfalls of starting and growing a business, a sound understanding of innovation management and building a business is essential. Particular attention must be paid to the financing of entrepreneurial activity, both from the perspective of the entrepreneur and the investor. Innovation and entrepreneurial activity are the basis and driving force of our economy. Even looking at other economies, it is obvious that innovation and entrepreneurship are crucial at every stage of economic development. Small enterprises in developing countries initiate the development of economic institutions and create supply, demand, and markets. These enterprises lay the foundation for economic development and growth. In developed economies, innovation and entrepreneurship are the driving forces behind competition and competitiveness in the global context. In all parts of the world, family businesses play the most important role. The rapid technological and social change present in our societies requires the innovative use of digital technologies (internet and artificial intelligence), as well as flexibility in handling new forms of organization (e.g., strategic alliances between companies). This course introduces students to the ideas behind, motives, and drivers of entrepreneurial activity and innovation and teaches them the practical aspects of the identification, analysis, and development of innovations and business ideas. The core competence of the entrepreneur—the ability to negotiate with investors and partners—is also addressed.",
+                            "outcomes": [
+                                "understand the importance, fundamentals, and dimensions of entrepreneurship and its derivatives (intrapreneurship, corporate entrepreneurship, stakeholder relationships, and family businesses).",
+                                "analyze the opportunities and challenges associated with evaluating a business idea and setting up a business.",
+                                "distinguish between the different motivations behind entrepreneurial activity and develop specific objectives for new enterprises.",
+                                "develop a business model, including benchmarks for assessing desired sustainable growth.",
+                                "apply different legal forms to business start-ups and select the appropriate legal form for a specific business model.",
+                                "understand the different ways in which entrepreneurship and innovation can be financed and weigh them against each other in terms of medium- and long-term advantages and disadvantages.",
+                                "develop a rigorous business plan that can be used both as a planning and financing instrument.",
+                                "apply, in principle, an entrepreneurial mindset in a variety of different contexts of future professional development."
+                            ],
+                            "contents": [
+                                "Entrepreneurship (Entrepreneurship and entrepreneur, Enterprise related theories of entrepreneurship, The economic significance of entrepreneurship)",
+                                "Company formation strategy (Different contexts in which companies are founded, The Entrepreneur, Business models and strategies)",
+                                "Innovation and innovation management (Innovation, Innovation management, Protection of intellectual property, Case study: BMW Empathic Design)",
+                                "Legal form in international comparison (Germany, International comparison: USA)",
+                                "Financing entrepreneurial activity I: Sources of finance (Incubators, accelerators and crowdfunding, Business angels, Private equity and corporate venture capital, Public start-up support)",
+                                "Financing entrepreneurial activity II: Financing processes (The investor view: Deal sourcing and deal screening, The entrepreneurial view: Negotiations with investors, The evaluation of business start-ups)",
+                                "The business plan (Purpose and objectives of the business plan, Expectations regarding the business plan, Structure and content of the business plan, Guidelines for creating a business plan)",
+                                "Digital business models and artificial intelligence (e-Business, Artificial intelligence, The Globotics Evolution)",
+                                "Cooperative strategy: Alliances and joint ventures (Cooperative strategy, The right 'fit', The right 'form')",
+                                "Family-owned company (Definitions, Economic significance, Strengths and weaknesses)"
+                            ],
+                            "literature": [
+                                "Mariotti, S., & Glackin, C. (2016). Entrepreneurship: Starting & operating a small business (4th ed.). Pearson.",
+                                "Parker, S. C. (2009). The economics of entrepreneurship (pp. 1–28). Cambridge University Press.",
+                                "Scarborough, N. M., & Cornwall, J. R. (2019). Essentials of entrepreneurship and small business management (9th ed.). Pearson."
+                            ],
+                            "exam_type": "Exam, 90 Minutes",
+                            "study_formats": [
+                                "myStudies",
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMBDSA1-01",
+                    "module_name": "Data Science",
+                    "credits": 5,
+                    "coordinator": "Prof. Dr. Gissel Velarde",
+                    "learning_outcomes": [
+                        "identify use cases and evaluate the performance of data-driven approaches.",
+                        "understand how domain specific knowledge for a particular application context is required to identify objectives and value propositions for data science use cases.",
+                        "appreciate the role and necessity for business-centric model evaluation apposite to the respective area of application.",
+                        "comprehend how data are pre-processed in preparation for analysis.",
+                        "develop typologies for data and ontologies for knowledge representation.",
+                        "decide for appropriate mathematical algorithms to utilize data analysis for a given task.",
+                        "understand the value, applicability, and limitations of artificial intelligence for data analysis."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMBDSA01-01",
+                            "course_name": "Data Science",
+                            "description": "The course provides the framework to create value from data. After an introduction the course covers how to identify suitable use cases and evaluate the performance of data-driven methods. In an interdisciplinary approach, the requirements from a specific application domain need to be understood and transferred to the technological understanding to identify the objectives and value proposition of a Data Science project. The course covers techniques for the technical processing of data and then introduces advanced mathematical techniques and selected methods from artificial intelligence that are used to analyze data and make predictions.",
+                            "outcomes": [
+                                "identify use cases and evaluate the performance of data-driven approaches.",
+                                "understand how domain specific knowledge for a particular application context is required to identify objectives and value propositions for data science use cases.",
+                                "appreciate the role and necessity for business-centric model evaluation apposite to the respective area of application.",
+                                "comprehend how data are pre-processed in preparation for analysis.",
+                                "develop typologies for data and ontologies for knowledge representation.",
+                                "decide for appropriate mathematical algorithms to utilize data analysis for a given task.",
+                                "understand the value, applicability, and limitations of artificial intelligence for data analysis."
+                            ],
+                            "contents": [
+                                "Introduction to Data Science (Overview of Data Science, Data Science Activities, Sources and Types of Data, Stages of Data Processing, Mathematical Basics for Data Scientists)",
+                                "Use Cases and Performance Evaluation (Data Science Use Cases (DSUCs), Model-Centric Evaluation: Performance Metrics, Business-Centric Evaluation: the Role of KPIs, Cognitive Biases and Decision-Making Fallacies)",
+                                "Pre-Processing of Data (Transmission of Data, Data Quality and Cleansing of Data, Transformation of Data, Reduction of Data Dimensionality)",
+                                "Data Processing (From Raw Data to Insights, Data Collection, Data Analysis and Model Building, Insight Implementation, Output Formats of Processed Data, Data Storage)",
+                                "Selected Mathematical Techniques (Principal component Analysis, Cluster Analysis, Linear Regression, Time Series Forecasting, Transformation Approaches)",
+                                "Selected Artificial Intelligence Techniques (Support Vector Machines, Artificial Neural Networks, Further Approaches)"
+                            ],
+                            "literature": [
+                                "Akerar, R., & Sajja, P.S. (2016). Intelligent techniques for data science. Cham: Springer.",
+                                "Bruce, A., & Bruce, P. (2017). Practical statistics for data scientists: 50 essential concepts. Newton, MA: O'Reilly Publishers.",
+                                "Fawcett, T. & Provost, F. (2013). Data science for business: What you need to know about data mining and data-analytic thinking. Newton, MA: O'Reilly Media.",
+                                "Hodeghatta, U. R., & Nayak, U. (2017). Business analytics using R – A practical approach. Berkeley, CA: Apress Publishing.",
+                                "Liebowitz, J. (2014). Business analytics: An introduction. Boca Raton, FL: Auerbach Publications.",
+                                "Runkler, T. A. (2012). Data analytics: Models and algorithms for intelligent data analysis. Wiesbaden: Springer Vieweg.",
+                                "Skiena, S. S. (2017). The data science design manual. Cham: Springer."
+                            ],
+                            "exam_type": "Exam, 90 Minutes",
+                            "study_formats": [
+                                "myStudies",
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester": 2,
+            "modules": [
+                {
+                    "module_code": "MWMA2_E",
+                    "module_name": "Customer Relationship Marketing",
+                    "credits": 5,
+                    "coordinator": "Prof. Dr. Josephine Zhou-Brock",
+                    "learning_outcomes": [
+                        "explain procedures for customer value-oriented analysis of strategic customer portfolios.",
+                        "understand the planning, implementation and control of value-oriented customer relationship strategies",
+                        "decide whether customer relationships should be systematically developed, deepened or actively terminated, taking into account the company, customer and competitive situation",
+                        "understand the high importance of the relational benefits, their brand- and personal determining factors as well as their value-enhancing character for the company.",
+                        "organize the structures and processes of relationship marketing with the help of modern business development in such a way that the contribution to value creation in the company is maximized."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "MWMA02_E",
+                            "course_name": "Customer Relationship Marketing",
+                            "description": "The ability of a company to permanently bind customers to its products and/or services through systematic relationship marketing and to continuously increase customer lifetime value is one of the most value-adding activities in business practice. Customer relationship marketing comprises the development, intensification and securing of lasting and profitable customer relationships. With this understanding, the course provides basic orientation knowledge that is essential for understanding the complex CRM approach. In addition to a comprehensive explanation of the essential terms and interrelationships, management concepts are presented which can be used to design the individual phases of the customer relationship in a profitable and customer-oriented manner.",
+                            "outcomes": [
+                                "explain procedures for customer value-oriented analysis of strategic customer portfolios.",
+                                "understand the planning, implementation and control of value-oriented customer relationship strategies",
+                                "decide whether customer relationships should be systematically developed, deepened or actively terminated, taking into account the company, customer and competitive situation",
+                                "understand the high importance of the relational benefits, their brand- and personal determining factors as well as their value-enhancing character for the company.",
+                                "organize the structures and processes of relationship marketing with the help of modern business development in such a way that the contribution to value creation in the company is maximized."
+                            ],
+                            "contents": [
+                                "Concept and basics of Customer Relationship Marketing",
+                                "Customer Relationship Strategies",
+                                "Customer acquisition, customer retention and customer recovery",
+                                "Electronic Customer Relationship Marketing (eCRM)",
+                                "Operational and analytical CRM processes"
+                            ],
+                            "literature": [
+                                "Dowling, B. (2002): Customer Relationship Management: In B2C Markets, Often Less is More. In: California Management Review, 22. Jg., Heft 3, S. 113–125.",
+                                "Grönroos, C. (2001): Service Management and Marketing. A Customer Relationship Management Approach. 2. Auflage, Wiley, Hoboken (NJ).",
+                                "Gummesson, E. (2015): Total Relationship Marketing. Rethinking Marketing Management. 32. Auflage, Butterworth Heinemann, Oxford.",
+                                "Hennig-Thurau, T./Hansen, U. (Hrsg.) (2000): Relationship Marketing. Gaining Competitive Advantage Through Customer Satisfaction and Customer Retention. Springer, Berlin/ Heidelberg.",
+                                "Kracklauer, A. H. (2005): Collaborative Customer Relationship Management. Taking CRM to the Next Level. Springer, Berlin/Heidelberg.",
+                                "Prahalad, C. K. et al. (2002): Harvard Business Review on Customer Relationship Management. Harvard Business School Publishing, Boston."
+                            ],
+                            "exam_type": "Exam, 90 Minutes",
+                            "study_formats": [
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMAIAI",
+                    "module_name": "Artificial Intelligence",
+                    "credits": 5,
+                    "coordinator": "Prof. Dr. Claudia Heß",
+                    "learning_outcomes": [
+                        "remember the historical developments in the field of artificial intelligence.",
+                        "analyze the different application areas of artificial intelligence.",
+                        "comprehend expert systems.",
+                        "apply Prolog to simple expert systems.",
+                        "comprehend the brain and cognitive processes from a neuro-scientific point of view.",
+                        "understand modern developments in artificial intelligence."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMAIAI01",
+                            "course_name": "Artificial Intelligence",
+                            "description": "The quest for artificial intelligence has captured humanity's interest for many decades and has been an active research area since the 1960s. This course will give a detailed overview of the historical developments, successes, and setbacks in AI, as well as the development and use of expert systems in early AI systems. In order to understand cognitive processes, the course will give a brief overview of the biological brain and (human) cognitive processes and then focus on the development of modern AI systems fueled by recent developments in hard- and software. Particular focus will be given to discussion of the development of \"narrow AI\" systems for specific use cases vs. the creation of general artificial intelligence. The course will give an overview of a wide range of potential application areas in artificial intelligence, including industry sectors such as autonomous driving and mobility, medicine, finance, retail, and manufacturing.",
+                            "outcomes": [
+                                "remember the historical developments in the field of artificial intelligence.",
+                                "analyze the different application areas of artificial intelligence.",
+                                "comprehend expert systems.",
+                                "apply Prolog to simple expert systems.",
+                                "comprehend the brain and cognitive processes from a neuro-scientific point of view.",
+                                "understand modern developments in artificial intelligence."
+                            ],
+                            "contents": [
+                                "History of AI (Historical Developments, AI Winters, Notable Advances in Artificial Intelligence)",
+                                "Early Systems in Artificial Intelligence (Overview of Expert Systems, Introduction to Prolog, Pattern Recognition and Machine Learning (ML), Use Cases)",
+                                "Neuroscience and Cognitive Science (Neuroscience and the Human Brain, Cognitive Science, The Relationship Between Neuroscience, Cognitive Science, and Artificial Intelligence)",
+                                "Modern Artificial Intelligence Systems (Recent Developments in Hardware and Software, Narrow versus General Artificial Intelligence, Natural Language Processing (NLP) and Computer Vision)",
+                                "Applications of Artificial Intelligence (Mobility and Autonomous Vehicles, Personalized Medicine, FinTech, Retail and Industry)"
+                            ],
+                            "literature": [
+                                "Chowdhary, K. R. (2020). Fundamentals of Artificial Intelligence. Springer India.",
+                                "Russell, S. & Norvig, P. (2022). Artificial intelligence. A modern approach (4th ed.). Pearson Education.",
+                                "Ward, J. (2020). The student's guide to cognitive neuroscience. (4th ed.). Taylor & Francis Group."
+                            ],
+                            "exam_type": "Exam, 90 Minutes",
+                            "study_formats": [
+                                "Distance Learning",
+                                "myStudies"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMIHDG_E",
+                    "module_name": "Seminar: Societal Challenges in Digitalization",
+                    "credits": 5,
+                    "coordinator": "Tareef Bint Ayaz Lodhi",
+                    "learning_outcomes": [
+                        "work independently on a given topic from the field of \"Social Challenges of Digitalization\", referring to academic literature.",
+                        "analyze important properties and relationships and present findings in a written scientific work.",
+                        "critically examine a given topic and identify potential problems or negative impacts so that decisions can be made based on this."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMIHDG01_E",
+                            "course_name": "Seminar: Societal Challenges in Digitalization",
+                            "description": "As part of the seminar \"Social Challenges of Digitization\", students prepare a scientific paper on a relevant topic. Students thus demonstrate that they are able to work independently on a current and socially relevant topic and to document the findings scientifically.",
+                            "outcomes": [
+                                "work independently on a given topic from the field of \"Social Challenges of Digitalization\", referring to academic literature.",
+                                "analyze important properties and relationships and present findings in a written scientific work.",
+                                "critically examine a given topic and identify potential problems or negative impacts so that decisions can be made based on this."
+                            ],
+                            "contents": [
+                                "The seminar deals with current topics around social challenges of digitalization. In particular, social aspects and challenges are addressed and digitalization's influence on changes in social processes and working environments is analyzed and reflected upon. Each participant has to write a scientific paper on an assigned topic, which can serve as preliminary work for the master's thesis."
+                            ],
+                            "literature": [
+                                "Brynjolfsson, E., & McAfee, A. (2016). The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies. W. W. Norton & Co.",
+                                "Diego Galar Pascual, Pasquale Daponte, & Uday Kumar. (2019). Handbook of Industry 4.0 and SMART Systems. CRC Press.",
+                                "Lathrop, D., & Ruma, L. (2010). Open Government: Collaboration, Transparency, and Participation in Practice (1st edition). O'Reilly Media.",
+                                "Nissenbaum, H. F. (2010). Privacy in context: Technology, policy, and the integrity of social life / Stanford Law Books.",
+                                "O'Neil, C. (2017). Weapons of math destruction: How big data increases inequality and threatens democracy. Broadway Books.",
+                                "Rogers, D. L. (2016). The Digital Transformation Playbook: Rethink Your Business for the Digital Age. Columbia Business School Publishing.",
+                                "Shoshana Zuboff (2019, November 6). Surveillance Capitalism and Democracy. Making Sense of the Digital Society, Berlin. https://www.bpb.de/mediathek/300781/shoshana-zuboff-surveillance-capitalism-and-democracy"
+                            ],
+                            "exam_type": "Written Assessment: Research Essay",
+                            "study_formats": [
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMBMIIIT",
+                    "module_name": "Internet of Things",
+                    "credits": 5,
+                    "coordinator": "Rachel John Robinson",
+                    "learning_outcomes": [
+                        "distinguish and discuss a broad range of use cases for the internet of things (IoT).",
+                        "understand and reflect upon the different perspectives on IoT.",
+                        "apply distinct techniques to engineer internet-of-things products.",
+                        "evaluate and identify appropriate IoT communication technology and standards according to given IoT product requirements.",
+                        "reflect on the respective theoretical foundation, evaluate different approaches, and apply appropriate approaches to practical questions and cases."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMBMMIIT01",
+                            "course_name": "Internet of Things",
+                            "description": "The Internet of Things (IoT), once a rough vision, has become reality today in a broad manner. There is a plethora of devices and services available to both consumers and businesses. From smart homes to smart cities, from smart devices to smart factories - internet-of-things technologies impact on our lives and environments. This course follows a top-down approach, discussing a broad set of aspects connected with the internet of things. It starts with use cases and risks from the perspectives of customers and businesses and winds up with a technical foundation of the internet of things. To address the engineering perspective, a set of techniques is proposed.",
+                            "outcomes": [
+                                "distinguish and discuss a broad range of use cases for the internet of things (IoT).",
+                                "understand and reflect upon the different perspectives on IoT.",
+                                "apply distinct techniques to engineer internet-of-things products.",
+                                "evaluate and identify appropriate IoT communication technology and standards according to given IoT product requirements.",
+                                "reflect on the respective theoretical foundation, evaluate different approaches, and apply appropriate approaches to practical questions and cases."
+                            ],
+                            "contents": [
+                                "Introduction into the Internet of Things (Foundations and Motivations, Potential and Challenges)",
+                                "Social and Business Relevance (Innovations for Consumers and Industry, Impact on Human and Work Environment, Privacy and Security)",
+                                "Architectures of Internet of Things and Industrial Internet of Things (Elements of loTs and llOTs, Sensors and Nodes, Power Systems, Fog Processors, Platforms)",
+                                "Communication Standards and Technologies (Network Topologies, Network Protocols, Communication Technologies)",
+                                "Data Storage and Processing (NoSQL and MapReduce, Linked Data and RDF(S), Semantic Reasoning, Complex Event Processing, Machine Learning, Overview of Existing Data Storage and Processing Platforms)",
+                                "Fields of Application (Smart Home/Living, Smart Buildings, Ambient Assisted Living, Smart Energy/Grid, Smart Factory, Smart Logistics, Smart Healthcare, Smart Agriculture)"
+                            ],
+                            "literature": [
+                                "Lea, P. (2018). Internet of things for architects: Architecting IoT solutions by implementing sensors, communication infrastructure, edge computing, analytics, and security. Birmingham: Packt Publishing Ltd.",
+                                "McEwen, A., & Cassimally, H. (2013). Designing the internet of things. Chichester: John Wiley & Sons.",
+                                "Raj, P., & Raman, A. C. (2017). The Internet of Things: Enabling technologies, platforms, and use cases. Boca Raton, FL: Auerbach Publications.",
+                                "Weber, R. H., & Weber, R. (2010). Internet of Things. Heidelberg: Springer."
+                            ],
+                            "exam_type": "Exam, 90 Minutes",
+                            "study_formats": [
+                                "Distance Learning",
+                                "myStudies"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "MWIT2-02_E",
+                    "module_name": "Management of IT Services and Architecture",
+                    "credits": 5,
+                    "coordinator": "Prof. Dr. Andrew Adjah Sai",
+                    "learning_outcomes": [
+                        "name, explain and distinguish the basic principles of IT strategy, IT governance and IT architecture management.",
+                        "explain and apply concepts from main areas in IT service management on the basis of the IT Infrastructure Library (ITIL).",
+                        "explain and apply goals and typical activities of IT architecture management, their interrelationships and their dependencies."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "MWIT02-02_E",
+                            "course_name": "Management of IT Services and Architecture",
+                            "description": "This course addresses two major areas in information technology (IT) management: service management as well as architecture management. IT service management is an approach to align and understand a company's IT department as a service provider and enabler of operational and business processes. Here, the focus is on planning and operating the organization-wide IT infrastructure. The area of architecture management focuses on the strategic alignment of the company's IT to the organization's business and IT strategy. This course provides concepts, methods, procedures and models for executing this management task.",
+                            "outcomes": [
+                                "name, explain and distinguish the basic principles of IT strategy, IT governance and IT architecture management.",
+                                "explain and apply concepts from main areas in IT service management on the basis of the IT Infrastructure Library (ITIL).",
+                                "explain and apply goals and typical activities of IT architecture management, their interrelationships and their dependencies."
+                            ],
+                            "contents": [
+                                "Introduction to IT Management (IT Management and IT Governance, IT Services, IT Service Management (ITSM), IT Architecture Management (ITAM), Reference Models for IT Organizations)",
+                                "IT Service Management: Incident and Problem Management (Overview, Service Quality, Service Level Agreements and Customer Expectations, Problem Management, Software Tools for Supporting Incident and Problem Management)",
+                                "IT Service Management: Asset Management (Overview, Using a Configuration Management Database, Asset Lifecycle, Asset Analysis and Risk Management, Interrelation with Procurement and Financial Processes)",
+                                "IT Service Management: Supplier Management (Overview, General Sourcing Approaches in ITSM, Evaluating and Selecting Suppliers, Contracting and Service Level Agreements, Monitoring and Controlling Suppliers)",
+                                "DevOps: Connecting Development and Operations (Development and Operation of Software in the Context of IT Management, Characteristics and Shortcomings of a Separation Between Software Development and Operations, The DevOps Idea: An Overview of the Concept and its Elements, DevOps vs. IT Service Management: How to Connect the Approaches)",
+                                "IT Architecture Management: Basics and Terms (IT Enterprise Architecture, Goals of Enterprise Architecture Management, Processes in the Management of IT Enterprise Architectures)",
+                                "IT Architecture Management: Application Portfolio Management (Overview of IT Application Portfolio Management, Application Manual, Portfolio Analysis, Development Planning)",
+                                "IT Architecture Management: Architecture Governance (Organizational Structure, Policy Development and Enforcement, Project Support)"
+                            ],
+                            "literature": [
+                                "Ahlemann, F., Messerschmidt, M., Stettiner, E., & Legner, C. (2012). Strategic Enterprise Architecture Management. Challenges, Best Practices, and Future Developments (1. Aufl.). Springer-Verlag.",
+                                "Hanschke, I. (2010). Strategic IT Management: a Toolkit for Enterprise Architecture Management. Springer."
+                            ],
+                            "exam_type": "Exam, 90 Minutes",
+                            "study_formats": [
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMDsBDT",
+                    "module_name": "Big Data Technologies",
+                    "credits": 5,
+                    "coordinator": "Prof. Dr. Christian Müller-Kett",
+                    "learning_outcomes": [
+                        "identify different types and sources of data.",
+                        "understand different database concepts.",
+                        "learn to build new database structures.",
+                        "evaluate various data storage frameworks w.r.t. project requirements.",
+                        "analyze which data format to use for a given project.",
+                        "understand what roles you could take in such projects.",
+                        "create a distributed computing environment for a given project.",
+                        "understand the ethical impact of big data technology choices."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMDSBDT01",
+                            "course_name": "Big Data Technologies",
+                            "description": "Data are often considered the \"new oil\", the raw material from which value is created. To harness the power of data, the data need to be stored and processed on a technical level. This course introduces the four \"Vs\" of data, as well as typical data sources and types. This course then discusses how data are stored in databases. Particular focus is given to database structures and different types of databases, e.g., relational, noSQL, NewSQL, and time-series. Beyond classical and modern databases, this course covers a wide range of storage frameworks such as distributed filesystems, streaming, and query frameworks. This is complemented by a detailed discussion of data storage formats ranging from classical approaches such as CSV and HDF5 to more modern approaches like Apache Arrow and Parquet. Finally, this course gives an overview of distributed computing environments based on local clusters, cloud computing facilities, and container-based approaches.",
+                            "outcomes": [
+                                "identify different types and sources of data.",
+                                "understand different database concepts.",
+                                "learn to build new database structures.",
+                                "evaluate various data storage frameworks w.r.t. project requirements.",
+                                "analyze which data format to use for a given project.",
+                                "understand what roles you could take in such projects.",
+                                "create a distributed computing environment for a given project.",
+                                "understand the ethical impact of big data technology choices."
+                            ],
+                            "contents": [
+                                "Data Types and Data Sources (The 4Vs of data: volume, velocity, variety, veracity, Data sources, Data types)",
+                                "Databases (Database structures, Introduction to SQL, Relational databases, nonSQL, NewSQL databases, Timeseries DB)",
+                                "Modern data storage frameworks (Distributed Filesystems, Streaming frameworks, Query frameworks)",
+                                "Data formats (Traditional data exchange formats, Apache Arrow, Apache Parquet)",
+                                "Distributed Computing (Cluster-based approaches, Containers, Cloud-based approaches)"
+                            ],
+                            "literature": [
+                                "Date, C. J. (2003). An introduction to database systems. Pearson.",
+                                "Kleppmann, M. (2017). Designing data-intensive applications. O'Reilly.",
+                                "Wiese, L. (2015). Advanced data management. De Gruyter."
+                            ],
+                            "exam_type": "Oral Assignment",
+                            "study_formats": [
+                                "myStudies",
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester": 3,
+            "modules": [
+                {
+                    "module_code": "DLMWIPCSK_E",
+                    "module_name": "Project: Cloud Service Concept Study",
+                    "credits": 5,
+                    "coordinator": "N.N.",
+                    "learning_outcomes": [
+                        "independentl analyze business requirements and identify suitable cloud services.",
+                        "technically integrate existing cloud services in such a way that they can jointly meet the business requirements.",
+                        "document the solutions comprehensible from both the business and the technical perspective.",
+                        "evaluate and discuss the achieved result with regards to specific issues from the perspectives of software engineering, operations and management."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMWIPCSK01_E",
+                            "course_name": "Project: Cloud Service Concept Study",
+                            "description": "In the past, IT solutions were usually implemented specifically and then made available to business users via the company's own IT infrastructure. In the meantime, however, there is a very large range of specific IT functions that are offered as cloud services. On the one hand for the private sector, but also for the professional sector. Also, for companies it makes more and more sense to use cloud services instead of implementing IT solutions on their own. In this project, students will develop, and document IT solutions based on existing cloud services, which will be used to implement complex business requirements. The aim is to avoid implementing program code as far as possible. For this purpose, provided interfaces and integration platforms (e.g., Zapier, PowerAutomate, IFTTT) will be used. Subsequently, the achieved result is evaluated and discussed with regards to specific issues from the perspectives of software engineering, IT operations and management.",
+                            "outcomes": [
+                                "independently analyze business requirements and identify suitable cloud services.",
+                                "technically integrate existing cloud services in such a way that they can jointly meet the business requirements.",
+                                "document the solutions comprehensible from both the business and the technical perspective.",
+                                "evaluate and discuss the achieved result with regards to specific issues from the perspectives of software engineering, operations and management."
+                            ],
+                            "contents": [
+                                "The aim of the course is to integrate publicly available cloud services by means of a concept study in a way that they fulfill complex business requirements. The result achieved is then documented in a comprehensible manner, evaluated from the perspectives of software engineering, operations, and management and in the form of a written project report."
+                            ],
+                            "literature": [
+                                "Harinarayanan, V. P. (2021). Building the Modern Workplace with SharePoint Online: Solutions with SPFx, Power Automate, Power Apps, Teams, and PVA: 1st ed. Apress.",
+                                "Rahmati, A., Fernandes, E., Jung, J. & Prakash, A. (2017). IFTTT vs. Zapier: A Comparative Study of Trigger-Action Programming Frameworks.",
+                                "Ramalingam, V.A. (2018). Introducing Microsoft Flow: Automating Workflows Between Apps and Services. Apress, New York.",
+                                "Shamon, O. & Carlberg, L. (2020). iipax one as a Service in Cloud Integration Platforms: A Comparison of Zapier, IFTTT and Power Automate (Dissertation) [available on internet].",
+                                "Zapier Inc: Getting started with Zapier [available on internet]."
+                            ],
+                            "exam_type": "Written Assessment: Project Report",
+                            "study_formats": [
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMISCT_E",
+                    "module_name": "Seminar: Current Topics in IT-Management",
+                    "credits": 5,
+                    "coordinator": "Anna Khodijah",
+                    "learning_outcomes": [
+                        "work independently on a given topic in the field of IT-Management with reference to English scientific literature.",
+                        "analyze important properties and interrelationships of a chosen subject and present findings in the form of a written scientific elaboration.",
+                        "autonomously acquire an in-depth understanding of a specific IT-Management topic."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMISC01_E",
+                            "course_name": "Seminar: Current Topics in IT-Management",
+                            "description": "IT-Management is a central task of the practical implementation of business informatics, in which technical and organizational topics intertwine. Students acquire knowledge on a specialist topic from the area of \"Current topics of IT-Management\" autonomously and prepare it in the form of a scientific seminar paper. In this way, the students demonstrate that they are able to familiarize themselves with a topic in IT-Management on their own and to document the knowledge gained in a scientific way.",
+                            "outcomes": [
+                                "work independently on a given topic in the field of IT-Management with reference to English scientific literature.",
+                                "analyze important properties and interrelationships of a chosen subject and present findings in the form of a written scientific elaboration.",
+                                "autonomously acquire an in-depth understanding of a specific IT-Management topic."
+                            ],
+                            "contents": [
+                                "This seminar deals with current approaches and challenges in the design and management of IT in companies, such as digitalization and the Internet of Things, cloud computing, IT offshoring and data protection. New technologies are constantly emerging that need to be evaluated and, if necessary, implemented and controlled in the company. Regardless of the specific issue, the central task always consists of the development, elaboration and discussion of the thematically relevant scientific theory and hints to practical relevance as well as the identification and evaluation of corresponding studies and findings. These are processed, interpreted, evaluated, and condensed into scientific statements by the students within the field of the underlying scientific question and prepared in the form of a written seminar paper. The module is based on the current catalog of topics available on the learning platform which can be augmented or updated."
+                            ],
+                            "literature": [
+                                "Gayvoronskaya, T. & Meinel, C. (2021). Blockchain. Hype or Innovation. Springer.",
+                                "Lisdorf, A. (2021). Cloud Computing Basics: A Non-Technical Introduction. Apress.",
+                                "Meier, A. & Kaufmann, M. (2019). SQL & NoSQL Databases. Models, Languages, Consistency Options and Architectures for Big Data Management. Springer."
+                            ],
+                            "exam_type": "Written Assessment: Research Essay",
+                            "study_formats": [
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMIFN_E",
+                    "module_name": "Agile Software Development Techniques and Methods",
+                    "credits": 10,
+                    "coordinator": "Prof. Dr. Damir Ismailovic",
+                    "learning_outcomes": [
+                        "analyze and assess problems and risks of industrial software development and their consequences for development processes.",
+                        "know and understand the basic principles of agile software engineering.",
+                        "analyze practical scenarios and independently apply suitable methods and tools of agile software engineering.",
+                        "independently apply the basic principles of agile methodologies in software engineering in smaller projects.",
+                        "independently analyze and evaluate the advantages and disadvantages of agile software engineering in practical scenarios."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMIIWNF01_E",
+                            "course_name": "Agile Software Development Techniques and Methods",
+                            "description": "Agile software development means simplifying software processes by concentrating on the main activities and implementing them with pragmatic principles of software engineering. This course provides an overview of the topic and differentiates agile software development from plan-driven development processes. In addition, the course teaches which mixture of techniques and procedures from agile and plan-driven software development is best suited for which situations.",
+                            "outcomes": [
+                                "analyze and assess problems and risks of industrial software development and their consequences for development processes.",
+                                "know and understand the basic principles of agile software engineering.",
+                                "analyze practical scenarios and independently apply suitable methods and tools of agile software engineering."
+                            ],
+                            "contents": [
+                                "Features and Principles of Agility (Features and Challenges of Software Projects, Classification of Uncertainty, Comparison of Agile and Classic Software Development, Principles of Agility)",
+                                "Agility in Small Teams with Scrum (Basics and General Setup with Scrum, Central Management Artifact: Product Backlog, Other Management Artifacts)",
+                                "Agile Portfolio and Project Management (Planning Levels in Agile Project Management, Agile Portfolio Management, Organization of Several Teams in One Project, Product and Release Planning)",
+                                "Agile Requirements and IT Architecture Management (Requirements Engineering in Agile Projects, Architecture Management in Agile Projects)",
+                                "Agile Testing (Basics and Requirements for the QA Organization, Testing Levels and Agility, Test Automation)",
+                                "Agile Delivery and Deployment (Basics and Continuous Delivery Pipeline, Continuous Build and Continuous Integration, Acceptance Tests, Load Tests and Continuous Deployment)"
+                            ],
+                            "literature": [
+                                "Cockburn, A. (2007). Agile software development: The cooperative game (2nd ed.). Addison-Wesley.",
+                                "Crispin, L. (2008). Agile testing: A practical guide for testers and Agile teams. Addison-Wesley.",
+                                "Highsmith, J. (2009). Agile project management: Creating innovative products. Addison-Wesley.",
+                                "Rubin, K. S. (2012). Essential Scrum: A practical guide to the most popular Agile process. Addison-Wesley.",
+                                "Schwaber, K. (2014). Agile project management with Scrum. Microsoft Press."
+                            ],
+                            "exam_type": "Written Assessment: Case Study",
+                            "study_formats": [
+                                "Distance Learning"
+                            ]
+                        },
+                        {
+                            "course_code": "DLMIIWNF02_E",
+                            "course_name": "Project: Agile Software Development Techniques and Methods",
+                            "description": "In this course, students acquire a deeper understanding of the learned techniques and methods of agile software development by applying them in a small project. In consultation with the tutor, students select a topic for their project from the provided topic catalog, carry out the project using agile techniques and methods, and describe the project and their experiences in a 12-15-page project report.",
+                            "outcomes": [
+                                "independently apply the basic principles of agile methodologies in software engineering in smaller projects.",
+                                "independently analyze and evaluate the advantages and disadvantages of agile software engineering in practical scenarios."
+                            ],
+                            "contents": [
+                                "An up-to-date catalog of topics provided in the module's online platform offers the basis of the module's content and can be supplemented or updated by the course instructor."
+                            ],
+                            "literature": [
+                                "Cooke, J. L. (2012). Everything You Want to Know about Agile - How to Get Agile Results in a Less-than-agile Organization. IT Governance Publishing.",
+                                "Kneuper R. (2018). Software Processes and Life Cycle Models. An Introduction to Modeling, Using and Managing Agile, Plan-Driven and Hybrid Processes. Springer.",
+                                "McKenna, D. (2016). The Art of Scrum: How Scrum Masters Bind Dev Teams and Unleash Agility. Apress.",
+                                "Stamelos I. G. & Sfetsos P. (2007). Agile Software Development Quality Assurance. IGI Global."
+                            ],
+                            "exam_type": "Written Assessment: Project Report",
+                            "study_formats": [
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_code": "DLMiWMB_E",
+                    "module_name": "Mobile Software Engineering",
+                    "credits": 10,
+                    "coordinator": "Prof. Dr. Christian Remfert / Prof. Dr. Holger Klus",
+                    "learning_outcomes": [
+                        "identify the differences and peculiarities of software development for mobile systems and explain them.",
+                        "differentiate various activities, roles and risks in the development, operation and maintenance of mobile software systems.",
+                        "explain and distinguish the architecture and technical features of the Android platform.",
+                        "independently create mobile software systems to solve specific problems for the Android platform.",
+                        "independently design and prototype a small mobile application to solve a targeted task.",
+                        "recognize typical problems and challenges in the practical implementation od small mobile applications.",
+                        "document the design and implementation of self-developed small, mobile applications."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "DLMIWMB01_E",
+                            "course_name": "Mobile Software Engineering I",
+                            "description": "Using the mobile platform \"Android\" as an example, the course teaches how the programming of mobile applications (Apps) differs from the development of browser-based information systems, which technologies and programming concepts are typically used, and what typical challenges there are in app development for business applications.",
+                            "outcomes": [
+                                "identify the differences and peculiarities of software development for mobile systems and explain them.",
+                                "differentiate various activities, roles and risks in the development, operation and maintenance of mobile software systems.",
+                                "explain and distinguish the architecture and technical features of the Android platform.",
+                                "independently create mobile software systems to solve specific problems for the Android platform."
+                            ],
+                            "contents": [
+                                "Basics of Mobile Software Development (Special Features of Mobile Devices, Special Features of Mobile Software Development, Classification of Mobile Devices, The Android Platform)",
+                                "Android System Architecture (The Android System, Security, Communication with Networks)",
+                                "Development Environment (Android Studio, First App and Emulator Test, Application Deployment)",
+                                "Core Components of an Android App (Overview of the Components of an Android App, Activities, Layouts and Views, Resources, Summary in One App, Graphic Design)",
+                                "Interaction Between Application Components (Intents, Services, Broadcast Receiver)",
+                                "Advanced Techniques (Threading, Application Memory)"
+                            ],
+                            "literature": [
+                                "Allen, G. (2021). Android for Absolute Beginners: Getting Started with Mobile Apps Development Using the Android Java SDK. Apress.",
+                                "Google Inc. (2022a). Android Developer Guides [available on internet].",
+                                "Hagos, T. (2020). Learn Android Studio 4 : Efficient Java-Based Android Apps Development. 2nd ed. Apress."
+                            ],
+                            "exam_type": "Written Assessment: Case Study",
+                            "study_formats": [
+                                "Distance Learning"
+                            ]
+                        },
+                        {
+                            "course_code": "DLMIMMB02_E",
+                            "course_name": "Project: Mobile Software Engineering",
+                            "description": "In this course, students independently create a mobile application and document its design and implementation.",
+                            "outcomes": [
+                                "independently design and prototype a small mobile application to solve a targeted task.",
+                                "recognize typical problems and challenges in the practical implementation od small mobile applications.",
+                                "document the design and implementation of self-developed small, mobile applications."
+                            ],
+                            "contents": [
+                                "Design, implementation and documentation of small, mobile applications based on a specific task. Possible topics are for example: A radio app to improve the exchange between listeners and the station in general, but especially between listeners and radio hosts. An app that allows a group of board game fans to better organize their regular evening game date. An app that thesis supervisors can use to improve their supervision processes."
+                            ],
+                            "literature": [
+                                "Allen, G. (2021). Android for absolute beginners getting started with mobile apps development using the Android Java SDK. Apress.",
+                                "Google Inc. (ed.) (2022a). Android Developer Guide [available on internet].",
+                                "Google Inc. (ed.) (2022b). Android Studio [available on internet].",
+                                "Hagos, T. (2020). Learn Android Studio 4 : Efficient Java-Based Android Apps Development: 2nd ed. Apress."
+                            ],
+                            "exam_type": "Written Assessment: Project Report",
+                            "study_formats": [
+                                "Distance Learning"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "semester": 4,
+            "modules": [
+                {
+                    "module_code": "MMTHE",
+                    "module_name": "Master Thesis",
+                    "credits": 30,
+                    "coordinator": "Degree Program Advisor (SGL)",
+                    "learning_outcomes": [
+                        "work on a problem from their major field of study by applying the specialist and methodological skills they have acquired during their studies.",
+                        "analyse selected tasks with scientific methods, critically evaluate them and develop appropriate solutions under the guidance of an academic supervisor.",
+                        "record and analyse existing (research) literature appropriate to the topic of the Master's thesis.",
+                        "prepare a detailed written elaboration in compliance with scientific methods.",
+                        "present a problem from their field of study under consideration of academic presentation and communication techniques.",
+                        "reflect on the scientific and methodological approach chosen in the Master's thesis.",
+                        "actively answer subject-related questions from subject experts (experts of the Master's thesis)."
+                    ],
+                    "courses": [
+                        {
+                            "course_code": "MMTHE01",
+                            "course_name": "Master Thesis",
+                            "description": "The aim and purpose of the Master's thesis is to successfully apply the subject-specific and methodological competencies acquired during the course of study in the form of an academic dissertation with a thematic reference to the major field of study. The content of the Master's thesis can be a practical-empirical or theoretical-scientific problem. Students should prove that they can independently analyse a selected problem with scientific methods, critically evaluate it and work out proposed solutions under the subject-methodological guidance of an academic supervisor. The topic to be chosen by the student from the respective field of study should not only prove the acquired scientific competences, but should also deepen and round off the academic knowledge of the student in order to optimally align his professional abilities and skills with the needs of the future field of activity.",
+                            "outcomes": [
+                                "work on a problem from their major field of study by applying the specialist and methodological skills they have acquired during their studies.",
+                                "analyse selected tasks with scientific methods, critically evaluate them and develop appropriate solutions under the guidance of an academic supervisor.",
+                                "record and analyse existing (research) literature appropriate to the topic of the Master's thesis.",
+                                "prepare a detailed written elaboration in compliance with scientific methods."
+                            ],
+                            "contents": [
+                                "Within the framework of the Master's thesis, the problem as well as the scientific research goal must be clearly emphasized. The work must reflect the current state of knowledge of the topic to be examined by means of an appropriate literature analysis. The student must prove his ability to use the acquired knowledge theoretically and/or empirically in the form of an independent and problem-solution-oriented application."
+                            ],
+                            "literature": [
+                                "Bui, Y. N. (2013). How to Write a Master's Thesis (2nd ed.). SAGE Publications, Incorporated.",
+                                "Turabian, K. L. (2013). A Manual for Writers of Research Papers, theses, and dissertations (8th ed.). University of Chicago Press.",
+                                "Further subject specific literature"
+                            ],
+                            "exam_type": "Master Thesis",
+                            "study_formats": [
+                                "Distance Learning",
+                                "myStudies"
+                            ]
+                        },
+                        {
+                            "course_code": "MMTHE02",
+                            "course_name": "Colloquium",
+                            "description": "The colloquium will take place after submission of the Master's thesis. This is done at the invitation of the experts. During the colloquium, the students must prove that they have fully independently produced the content and results of the written work. The content of the colloquium is a presentation of the most important work contents and research results by the student, and the answering of questions by the experts.",
+                            "outcomes": [
+                                "present a problem from their field of study under consideration of academic presentation and communication techniques.",
+                                "reflect on the scientific and methodological approach chosen in the Master's thesis.",
+                                "actively answer subject-related questions from subject experts (experts of the Master's thesis)."
+                            ],
+                            "contents": [
+                                "The colloquium includes a presentation of the most important results of the Master's thesis, followed by the student answering the reviewers' technical questions."
+                            ],
+                            "literature": [
+                                "Renz, K.-C. (2016): The 1 x 1 of the presentation. For school, study and work. (2nd ed.). Springer Gabler."
+                            ],
+                            "exam_type": "Colloquium",
+                            "study_formats": [
+                                "Distance Learning",
+                                "myStudies"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

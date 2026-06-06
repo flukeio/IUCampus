@@ -1,0 +1,42 @@
+[
+  {
+    "id": "G1",
+    "name": "Basketball Pickup Game",
+    "description": "Come join us for some friendly moves on the court. All skill levels welcome!",
+    "organizer": "Coach_Mike",
+    "location": "Rec Center Court 2",
+    "time": "Today 5:00 PM",
+    "max_participants": 10,
+    "current_participants": 4
+  },
+  {
+    "id": "G2",
+    "name": "Study Group: Mobile SE",
+    "description": "Weekly study session for the Mobile Software Engineering course. Focus on clean architecture today.",
+    "organizer": "Alice_Dev",
+    "location": "Library 3rd Floor",
+    "time": "Tomorrow 2:00 PM",
+    "max_participants": 5,
+    "current_participants": 2
+  },
+  {
+    "id": "G3",
+    "name": "Campus Picnic",
+    "description": "Bring your own snacks and blanket for a relaxing afternoon at Central Park.",
+    "organizer": "IU_Admin",
+    "location": "Central Park",
+    "time": "Saturday 12:00 PM",
+    "max_participants": 50,
+    "current_participants": 12
+  },
+  {
+    "id": "G4",
+    "name": "Tech Talk: Jetpack Compose",
+    "description": "Exploring UI development with the latest Android tools. Free pizza included!",
+    "organizer": "IU_Student_Lead",
+    "location": "IT Hall B",
+    "time": "Monday 6:00 PM",
+    "max_participants": 30,
+    "current_participants": 25
+  }
+]
