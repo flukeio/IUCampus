@@ -2,6 +2,12 @@
 
 Project report repository for **DLMIWMB02_E – Mobile Software Engineering II**.
 
+## Student Information
+
+- Submitted By: Hissein Ibrahim Oumar
+- Matriculation Number: 42309633
+- Tutor: Holger Klus
+
 ## Overview
 
 **IUCampus** is an Android app (Jetpack Compose) that provides a simple campus-style experience:
